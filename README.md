@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Oziel! I'm a Software Engineer diving into the world of DevOps. 🚀🚀🚀  <br><br>💡 Currently, I'm learning about **CI/CD, Docker, Kubernetes, Terraform, and Cloud Computing**.  <br><br>💻 Tech I work with: <br>- 🖥 **Backend:** Node.js, Nest.js, MongoDB  <br>- 🎨 **Frontend:** React.js, Angular, TailwindCSS, CSS3 <br>- 🛠 **DevOps Tools I'm Learning:** Docker, Github Actions ,Kubernetes, Terraform<br><br>📚 Currently exploring:  <br>- AWS & Cloud Services  <br>- Infrastructure as Code (IaC)  <br>- Observability & Monitoring  <br>- Kubernetes & Terraform<br><br>
+# About Me:
+Hi, I'm Oziel! I'm a Software Engineer diving into the world of DevOps.   <br><br> Currently, I'm learning about **CI/CD, Docker, Kubernetes, Terraform, and Cloud Computing**.  <br><br>💻Tech I work with: <br>-  **Backend:** Node.js, Nest.js, MongoDB  <br>-  **Frontend:** React.js, Angular, TailwindCSS, CSS3 <br>- 🛠 **DevOps Tools I'm Learning:** Docker, Github Actions ,Kubernetes, Terraform<br><br> Currently exploring:  <br>- AWS & Cloud Services  <br>- Infrastructure as Code (IaC)  <br>- Observability & Monitoring  <br>- Kubernetes & Terraform<br><br>
 
 
 ## 🌐 Socials:
