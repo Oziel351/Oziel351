@@ -1,5 +1,19 @@
 # About Me:
-Hi, I'm Oziel! I'm a Software Engineer diving into the world of DevOps.   <br><br> Currently, I'm learning about **CI/CD, Docker, Kubernetes, Terraform, and Cloud Computing**.  <br><br>Tech I work with: <br>-  **Backend:** Node.js, Nest.js, MongoDB  <br>-  **Frontend:** React.js, Angular, TailwindCSS, CSS3 <br>-  **DevOps Tools I'm Learning:** Docker, Github Actions ,Kubernetes, Terraform<br><br> Currently exploring:  <br>- AWS & Cloud Services  <br>- Infrastructure as Code (IaC)  <br>- Observability & Monitoring  <br>- Kubernetes & Terraform<br><br>
+Hi, I'm Oziel! I'm a Software Engineer diving into the world of DevOps. <br><br>
+I build full-stack applications and design the infrastructure behind them — from backend APIs and service integrations to containerized deployments and automated pipelines. <br><br>
+Currently, I'm deepening my knowledge in <strong>CI/CD, Docker, Kubernetes, Terraform, and Cloud Computing</strong>. <br><br>
+Tech I work with: <br>
+- <strong>Backend:</strong> Node.js, NestJS, MongoDB, Supabase <br>
+- <strong>Frontend:</strong> React.js, Angular, TailwindCSS, CSS3 <br>
+- <strong>DevOps & Cloud:</strong> Docker, GitHub Actions, Jenkins, Terraform, GCP, AWS <br>
+- <strong>Scripting & OS:</strong> Linux (LFS101), Bash <br><br>
+Currently exploring: <br>
+- AWS & multi-cloud architecture <br>
+- Infrastructure as Code (IaC) with Terraform <br>
+- Observability & Monitoring <br>
+- Kubernetes for container orchestration <br>
+- CI/CD pipelines with Jenkins <br>
+- Deeper Docker internals and production patterns <br><br>
 
 
 ##  Socials:
