@@ -1,29 +1,60 @@
-# About Me:
-Hi, I'm Oziel! I'm a Software Engineer diving into the world of DevOps. <br><br>
-I build full-stack applications and design the infrastructure behind them — from backend APIs and service integrations to containerized deployments and automated pipelines. <br><br>
-Currently, I'm deepening my knowledge in <strong>CI/CD, Docker, Kubernetes, Terraform, and Cloud Computing</strong>. <br><br>
-Tech I work with: <br>
-- <strong>Backend:</strong> Node.js, NestJS, MongoDB, Supabase <br>
-- <strong>Frontend:</strong> React.js, Angular, TailwindCSS, CSS3 <br>
-- <strong>DevOps & Cloud:</strong> Docker, GitHub Actions, Jenkins, Terraform, GCP, AWS <br>
-- <strong>Scripting & OS:</strong> Linux (LFS101), Bash <br><br>
-Currently exploring: <br>
-- AWS & multi-cloud architecture <br>
-- Infrastructure as Code (IaC) with Terraform <br>
-- Observability & Monitoring <br>
-- Kubernetes for container orchestration <br>
-- CI/CD pipelines with Jenkins <br>
-- Deeper Docker internals and production patterns <br><br>
+# Hi, I'm Oziel 👋
 
+Software Engineer transitioning into DevOps — I don't just build applications, 
+I own them end-to-end: from the API to the pipeline that ships it.
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/oziel-montoya-66a73728a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omontoya931@gmail.com) 
+My work sits at the intersection of **backend development** and **infrastructure engineering**.
+I design systems that are containerized, automated, and built to scale.
 
-#  Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oziel351&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Oziel351&theme=dark&hide_border=false)<br/>
+---
+
+## 🔧 What I Build
+
+- **Full-stack apps** with Node.js / NestJS backends and React / Angular frontends  
+- **Containerized services** using Docker, deployed with CI/CD pipelines (GitHub Actions, Jenkins)  
+- **Cloud infrastructure** on GCP and AWS, managed with Terraform  
+- **Automated pipelines** that go from commit to production with zero manual steps
+
+---
+
+##Tech Stack
+
+**Backend:** Node.js · NestJS · MongoDB · PostgreSQL · Supabase  
+**Frontend:** React.js · Angular · TailwindCSS  
+**DevOps & Cloud:** Docker · GitHub Actions · Jenkins · Terraform · GCP · AWS  
+**Scripting & OS:** Linux · Bash  
+**Languages:** TypeScript · JavaScript · Python  
+
+---
+
+## Currently Going Deeper On
+
+- Kubernetes for container orchestration at scale  
+- Multi-cloud architecture (AWS + GCP)  
+- Infrastructure as Code with Terraform  
+- Observability, logging & monitoring  
+- Production-grade Docker patterns  
+- CI/CD pipeline design with Jenkins  
+
+---
+
+##Certifications
+
+- Docker Foundations Professional Certificate** — Docker, Inc.
+- LFS167: Introduction to Jenkins
+- LFS101: Introduction to Linux
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Oziel351&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Oziel351&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oziel351&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oziel-montoya-66a73728a)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omontoya931@gmail.com)
