@@ -17,7 +17,7 @@ I design systems that are containerized, automated, and built to scale.
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 **Backend:** Node.js · NestJS · MongoDB · PostgreSQL · Supabase  
 **Frontend:** React.js · Angular · TailwindCSS  
@@ -38,7 +38,7 @@ I design systems that are containerized, automated, and built to scale.
 
 ---
 
-##Certifications
+## Certifications
 
 - Docker Foundations Professional Certificate** — Docker, Inc.
 - LFS167: Introduction to Jenkins
