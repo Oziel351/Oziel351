@@ -1,6 +1,6 @@
-# Hi, I'm Oziel 👋
+# Hi, I'm Oziel 
 
-Software Engineer transitioning into DevOps — I don't just build applications, 
+Software Engineer and DevOps Enthusiastic — I don't just build applications, 
 I own them end-to-end: from the API to the pipeline that ships it.
 
 My work sits at the intersection of **backend development** and **infrastructure engineering**.
@@ -8,7 +8,7 @@ I design systems that are containerized, automated, and built to scale.
 
 ---
 
-## 🔧 What I Build
+##  What I Build
 
 - **Full-stack apps** with Node.js / NestJS backends and React / Angular frontends  
 - **Containerized services** using Docker, deployed with CI/CD pipelines (GitHub Actions, Jenkins)  
