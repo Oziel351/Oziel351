@@ -21,13 +21,6 @@ Software Engineer and DevOps Enthusiastic.
 - Production-grade Docker patterns  
 - CI/CD pipeline design with Jenkins  
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Oziel351&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Oziel351&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oziel351&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ## Let's Connect
 
