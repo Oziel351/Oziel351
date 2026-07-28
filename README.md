@@ -1,7 +1,6 @@
 # Hi, I'm Oziel 
 
-Software Engineer and DevOps Enthusiastic — I don't just build applications, 
-I own them end-to-end: from the API to the pipeline that ships it.
+Software Engineer and DevOps Enthusiastic.
 
 ## Tech Stack
 
