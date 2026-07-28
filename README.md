@@ -3,20 +3,6 @@
 Software Engineer and DevOps Enthusiastic — I don't just build applications, 
 I own them end-to-end: from the API to the pipeline that ships it.
 
-My work sits at the intersection of **backend development** and **infrastructure engineering**.
-I design systems that are containerized, automated, and built to scale.
-
----
-
-##  What I Build
-
-- **Full-stack apps** with Node.js / NestJS backends and React / Angular frontends  
-- **Containerized services** using Docker, deployed with CI/CD pipelines (GitHub Actions, Jenkins)  
-- **Cloud infrastructure** on GCP and AWS, managed with Terraform  
-- **Automated pipelines** that go from commit to production with zero manual steps
-
----
-
 ## Tech Stack
 
 **Backend:** Node.js · NestJS · MongoDB · PostgreSQL · Supabase  
@@ -35,16 +21,6 @@ I design systems that are containerized, automated, and built to scale.
 - Observability, logging & monitoring  
 - Production-grade Docker patterns  
 - CI/CD pipeline design with Jenkins  
-
----
-
-## Certifications
-
-- Docker Foundations Professional Certificate** — Docker, Inc.
-- LFS167: Introduction to Jenkins
-- LFS101: Introduction to Linux
-
----
 
 ## GitHub Stats
 
